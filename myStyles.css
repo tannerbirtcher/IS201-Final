@@ -1,0 +1,58 @@
+/* My custom styles */
+
+.navBackground {
+    background-color:bisque;
+}
+
+#navText {
+    color:bisque
+}
+li {
+    color:bisque
+}
+
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/circle.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: brown;
+    text-align: left;
+}
+
+li {
+    color: black;
+    font-size: 17px;
+}
+
+span {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+.homebg {
+    background-image: url('/images/mountains\ utah.jpeg');
+}
+
+.homebgofindex {
+    background-image: url('/images/circle.jpeg');
+}
+
+.aboutmebg {
+    background-image: url('/images/1920x1080-tan-solid-color-background.jpeg');
+
+}
+
+
+
